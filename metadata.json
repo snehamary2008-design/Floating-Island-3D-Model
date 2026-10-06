@@ -1,0 +1,6 @@
+{
+  "name": "The Last Floating Island - Cinematic 3D Fantasy World",
+  "description": "A cinematic, interactive 3D procedural fantasy world built with A-Frame and vanilla JavaScript, featuring an ancient floating sanctuary, cascading waterfalls, a glowing cabin, and a luminous moon.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
